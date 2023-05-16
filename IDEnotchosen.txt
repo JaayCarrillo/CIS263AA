@@ -1,0 +1,6 @@
+Hello everyone, I decided to NOT use the IDE 'Eclipse' for this class even though my prior experience
+is in Eclipse when I am writing Java code. Eclipse was a standard as a GCU student and there was really no other
+options to chose from(really it was just lack of exposure). I have had experience with other IDE's before
+but for what I am trying to build and for this class, IntelliJ(JetBrains) has an easier UI and is way easier to navigate in my experience.
+I am building some front-end projects using HTML,CSS AND JS it JetBrains functionality for something other than just Java
+is what really seemed intruiging to me. You add in GitHub Desktop paired with this work flow and everything seems a lot more intuitive.
