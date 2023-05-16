@@ -1,0 +1,7 @@
+We can use GitHub for a portfolion to help land us a job with a future employer is through Git Pages you can
+build a portfolio that you can host on GitHub's platform and showcase your ability to program and the languages
+you are familiar with writing code with. In my opinion you can use Git/GitHub in a lot of ways if you can write
+some standard Markdown you can work on using MD to customize your GitHub page and add icons to a README file that
+showcases in a more designer friendly format of who you are, where you are from , projects that you are working on
+and any new updates on projects or assignments that you have going on. What this does is put all of your work in one
+area for employers to look at and show proof that you know how to contribute to projects and push new commits.
