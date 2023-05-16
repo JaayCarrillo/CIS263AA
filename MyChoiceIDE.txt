@@ -1,0 +1,5 @@
+Hello everyone, I chose this IDE for a lot of reasons but primarily it was because I was ready for a change
+from Eclipse. I have done most of my software development school work on Eclipse at GCU since that is their standard
+and I found it to be dated. Although, I have to say Eclipse is a powerful and most widely used for Java programming
+IntelliJ seemed to be more of the 'modern' IDE to use in the industry. I like its UI and to commit to GitHub was easier for me to do
+and keep up with my workflow. Overall, it helps me stay focused on the things that need to stayed focused and I can keep track of my work more fairly.
